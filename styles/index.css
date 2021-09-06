@@ -1,0 +1,27 @@
+h1 {
+    color:green; 
+    font-size: 40px;
+    font-weight: 300;
+    font-style: italic;
+    text-align: center;
+    background-color: gray;
+}
+
+#second-paragraph {
+    color:orange; 
+}
+
+body {
+    background-image: url(../images/hbg.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    height: 200vh;
+}
+
+img{
+    border-width: 5px;
+    border-style: solid;
+    border-color: green;
+}
